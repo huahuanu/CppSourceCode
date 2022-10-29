@@ -2,7 +2,10 @@
 
 
 
+
 `22-10-29 leetcode-1773 check.`
+
+`22-10-27 leetcode-1822 check.`
 
 `22-10-26 leetcode-1822 check.`
 
