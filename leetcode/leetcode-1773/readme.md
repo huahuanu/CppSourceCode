@@ -33,7 +33,7 @@ ruleKey == "name" 且 ruleValue == namei 。
 
 提示：
 
-1 <= items.length <= 104
+1 <= items.length <= 1e4
 
 1 <= typei.length, colori.length, namei.length, ruleValue.length <= 10
 
