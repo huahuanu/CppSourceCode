@@ -4,6 +4,8 @@
 
 
 
+`22-11-06 leetcode-1678 check.`
+
 `22-11-04 leetcode-754 check.`
 
 `22-11-03 leetcode-1668 check.`
